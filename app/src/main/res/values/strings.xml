@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MonConver App</string>
+    <string name="description"> En esta aplicación usted podrá convertir de pesos colombianos (COP) a un valor equivalente en otras monedas.</string>
+    <string name="title_variable">CONVERSOR DE MONEDA</string>
+    <string name="number_cont"> Ingrese el valor a convertir</string>
+    <string name="step1_text">Seleccione una moneda para realizar la conversión: </string>
+    <string name="dolar_text">Dólar estadounidense (USD)</string>
+    <string name="euro_text">Euro (EUR)</string>
+    <string name="franco_text">Franco Suizo (CHF)</string>
+    <string name="libra_text">Libra esterlina (GBP)</string>
+    <string name="peso_mex_text">Peso mexicano (MXN)</string>
+    <string name="dolar_ca_text">Dólar canadiense (CAD)</string>
+    <string name="conversor_text">Convertir</string>
+    <string name="resultado_text">Resultado</string>
+    <string name="info_text_v">Nota: Tener en cuenta que las conversiones realizadas fueron con una TRM fija del día.</string>
+</resources>

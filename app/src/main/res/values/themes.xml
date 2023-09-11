@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#FF5722</item> <!-- Cambia el color de fondo aquí -->
+    </style>
+
+    <style name="Base.Theme.Lab_1_Punto3" parent="Theme.AppCompat">
+        <item name="android:statusBarColor">#3F51B5</item> <!-- Color de la barra de estado -->
+        <item name="android:navigationBarColor">#3F51B5</item> <!-- Color de la barra de navegación -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item> <!-- Aplica el estilo de ActionBar -->
+    </style>
+
+    <style name="SplashTheme" parent="Base.Theme.Lab_1_Punto3">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <color name="red">#F44336</color>
+    <color name="blue">#3F51B5</color>
+    <color name="green">#4CAF50</color>
+    <color name="purple">#7B46D9</color>
+    <color name="yellow">#FFEB3B</color>
+</resources>
